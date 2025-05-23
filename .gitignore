@@ -52,3 +52,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+
+#new things to ignore
+bin/
+obj/
+*.user
+*.suo
+*.vs/
